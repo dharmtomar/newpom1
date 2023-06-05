@@ -1,0 +1,14 @@
+INFO    2023-06-05 10:20:28,494 [main] pages.BasePage  -  config property loaded 
+INFO    2023-06-05 10:20:28,497 [main] pages.BasePage  -  or property loaded 
+INFO    2023-06-05 10:21:29,944 [main] pages.BasePage  -  Launching chrome 
+INFO    2023-06-05 10:21:49,886 [main] pages.BasePage  -  Navigating to https://www.zoho.com
+INFO    2023-06-05 10:22:01,767 [main] pages.BasePage  - Clicking on an Element : homepagesignin_XPATH
+ERROR   2023-06-05 10:22:07,013 [main] pages.BasePage  - Error while Clicking on an Element : homepagesignin_XPATH error message : Cannot invoke "com.aventstack.extentreports.ExtentTest.log(com.aventstack.extentreports.Status, String)" because "extentlisteners.ExtentListeners.test" is null
+INFO    2023-06-05 10:22:08,049 [main] pages.BasePage  -  Typing in to an element loginemail_XPATH Entered value is dharmiqualisys@gmail.com
+ERROR   2023-06-05 10:22:08,049 [main] pages.BasePage  -  Error while typing into element loginemail_XPATH Error message Cannot invoke "com.aventstack.extentreports.ExtentTest.log(com.aventstack.extentreports.Status, String)" because "extentlisteners.ExtentListeners.test" is null
+INFO    2023-06-05 10:22:08,157 [main] pages.BasePage  - Clicking on an Element : nextbutton_XPATH
+ERROR   2023-06-05 10:22:08,157 [main] pages.BasePage  - Error while Clicking on an Element : nextbutton_XPATH error message : Cannot invoke "com.aventstack.extentreports.ExtentTest.log(com.aventstack.extentreports.Status, String)" because "extentlisteners.ExtentListeners.test" is null
+INFO    2023-06-05 10:22:16,330 [main] pages.BasePage  -  Typing in to an element loginpass_ID Entered value is Dharm@54321
+ERROR   2023-06-05 10:22:16,331 [main] pages.BasePage  -  Error while typing into element loginpass_ID Error message Cannot invoke "com.aventstack.extentreports.ExtentTest.log(com.aventstack.extentreports.Status, String)" because "extentlisteners.ExtentListeners.test" is null
+INFO    2023-06-05 10:22:16,453 [main] pages.BasePage  - Clicking on an Element : signinbutton_XPATH
+ERROR   2023-06-05 10:22:16,453 [main] pages.BasePage  - Error while Clicking on an Element : signinbutton_XPATH error message : Cannot invoke "com.aventstack.extentreports.ExtentTest.log(com.aventstack.extentreports.Status, String)" because "extentlisteners.ExtentListeners.test" is null
